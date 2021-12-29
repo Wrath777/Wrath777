@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://tenor.com/view/sukuna-hair-back-jujutsu-kaisen-gif-19182152">
+<img src="https://cdn.discordapp.com/attachments/846457509509857320/923615104715604008/GIF-211219_175026.gif">
 </p>
 <p align="center">
     Icognito777
