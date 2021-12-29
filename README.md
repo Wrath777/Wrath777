@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Icognito777/Icognito777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">  
+<img src="https://tenor.com/view/sukuna-hair-back-jujutsu-kaisen-gif-19182152">
+</p>
+<p align="center">
+    Icognito777
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=Icognito777&color=grey">
+</p>
+<p align="center">
+Busy Makin Tools!
+<p align="center">
+    <a href="https://discord.gg/hrFgrcUPgJ">Development</a>
